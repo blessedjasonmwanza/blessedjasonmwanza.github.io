@@ -4,12 +4,12 @@ How to Collect and Send Money Using MoneyUnify with - Airtel Merchant account
   > *AIRTEL* to *Airtel*, Instant mobile Money collections and disbursements **in over 15 African countries** with the flexibility of settling funds to your bank or mobile money account.
 
 
-Begin by creating your developer account on the Official [Airtel Developer portal](https://developers.airtel.africa/home). Thereafter, configure your keys on the [MoneyUnify Dashboard](https://dashboard.moneyunify.com) and move on to collecting or disbursing as guided below.
+Begin by creating your developer account on the Official [Airtel Developer portal](https://developers.airtel.africa/home). Thereafter, configure your keys on the [MoneyUnify Dashboard](https://dashboard.moneyunify.one) and move on to collecting or disbursing as guided below.
 
 ## Collecting online Mobile Payments - [ Airtel Money - example]
 > Use your favourite stack to collect money via USSD from customers in over 15 African countries
 
-- **API Collection URL** ***https://api.moneyunify.com/airtel/request_payment*** - *POST*
+- **API Collection URL** ***https://api.moneyunify.one/airtel/request_payment*** - *POST*
 
 <table>
   <thead>
